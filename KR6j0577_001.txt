@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:30.924607
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:32
 #+TITLE: 息除中夭陀羅尼經
 #+PROPERTY: CBETA_ID T21n1347
 #+PROPERTY: ID KR6j0577
